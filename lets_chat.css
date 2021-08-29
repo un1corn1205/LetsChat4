@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png");
+    font-family:'Josefin Slab',serif !important;
+}
+
+.login_div
+{
+	background-color: white;
+    opacity: 0.7;
+    margin-top: 80px;
+    padding:20px;
+    border-radius:50px;
+    border-style:double;
+    width:500px;
+}
+
+#logo{
+    width:100px;
+    height:100px;
+}
+
+h1{
+    font-size:70px;
+}
+
+h2,h3,h4,label{
+    font-size:25px;
+}
+
+button{
+    background-color:#ECE5DD;
+    width:170px;
+    height:40px;
+    margin-top:20px;
+    font-size:25px;
+    font-family:'Josefin Slab',serif;
+    border-radius:50px;
+    box-shadow: none;
+}
+
+button:hover{
+    background-color:#c5b5a2;
+    cursor:pointer;
+}
+
+#username{
+   height:30px; 
+   font-family:'Josefin Slab',serif;
+   font-size:25px;
+}

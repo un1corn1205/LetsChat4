@@ -1,0 +1,88 @@
+html, body
+{
+  height: 100%;
+  background-image:url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png");
+	background-size: cover;
+	background-position:center;
+    font-family:'Josefin Slab',serif !important;
+    color:black !important;
+}
+
+
+
+
+
+.header
+{
+	color: black;font-family:'Josefin Slab',serif;font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: black;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white
+}
+
+
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+
+img{
+	border-radius: 50px;
+}
+
+h2,h3,h4,h5,h6,input,button,label{
+    font-size:25px !important;
+}
+
+#welcoming_user{
+	color:#887966;
+}
